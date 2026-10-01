@@ -34,3 +34,4 @@
 
 ```bash
 pip install PySide6 Pillow
+<img width="1527" height="1439" alt="image" src="https://github.com/user-attachments/assets/ad6ce0a8-430f-4053-b5d2-51cad9742f4c" />
